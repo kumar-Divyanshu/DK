@@ -1,3 +1,3 @@
 # DK
-This is my fast repository
-auther-DIVYANSHU KUMAR
+This is my fast repository.
+Auther-DIVYANSHU KUMAR
